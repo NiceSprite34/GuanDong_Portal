@@ -3,7 +3,7 @@ require_once('360safe/360webscan.php');
 require 'assets/api.php';
 $ip = $_SERVER["REMOTE_ADDR"];
 $app = new Myitmx\xyw();
-$wlanacip = "183.56.17.19";
+$wlanacip = "183.56.14.54";
 $wlanuserip = $_POST["userip"];
 $username = $_POST["username"];
 $password =  $_POST["password"];

@@ -2,7 +2,7 @@
 //OpenWRT Curl Login
 require 'api.php';
 $app = new Myitmx\xyw();
-$wlanacip = "183.56.17.19";
+$wlanacip = "183.56.00.00";
 $wlanuserip = $_GET["userip"];
 $username = $_GET["username"];
 $password =  $_GET["password"];

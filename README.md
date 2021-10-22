@@ -1,4 +1,6 @@
 # GuanDong_Portal
+
+电信系统更新，已无法使用
 基于 Myitmx 项目修改。可用于天翼校园网（广东已测试），</br>
 更改login.php中的wlancip为本校认证服务器IP即可！
 建议使用PHP7.0以上版本运行。

@@ -5,7 +5,8 @@
 基于 Myitmx 项目修改。可用于天翼校园网（广东已测试），</br>
 更改login.php中的wlancip为本校认证服务器IP即可！
 建议使用PHP7.0以上版本运行。</br>
-请遵守Apache License 2.0</font>使用协议，请不要用于任何商业活动！</br>
+请遵守Apache License 2.0使用协议，仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负</br>
+
 OPENWRT-CURL GET使用方法：</br>
 http://localhost/openwrt/curl.php?userip=用户IP&username=用户名&password=密码
 
